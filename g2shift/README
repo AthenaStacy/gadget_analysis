@@ -1,0 +1,3 @@
+# g2shift
+These are various scripts which read in a Gadget2 binary file and output a sightly modified binary file.  The newly outpuuted file will 
+then have the correct format for input into a different or updated version of Gadget2.
