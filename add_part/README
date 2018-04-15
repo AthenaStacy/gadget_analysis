@@ -1,0 +1,4 @@
+#add_part
+This is a set of routines which reads in a Gadget2 snapshot, performs 'particle splitting,' and outputs a new snapshot with a 
+a greater number of particles.  The new snapshot will subsequently have better resolution and ability to follow gas evolution on smaller 
+scales.
