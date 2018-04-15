@@ -1,0 +1,3 @@
+#g2read
+These are routines which read in a Gadget2 binary snapshot, perform various calculations on the snapshot, and then output the results to 
+a readable text file.
