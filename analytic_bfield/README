@@ -1,0 +1,3 @@
+#analytic_bfield
+This is a set of routines which read in a set of chronologically sequential Gadget2 snapshots and analytically calculated the evolution of
+the magnetic field of each gas particle contained in the snapshot.  The equations for magnetic field evolution assume ideal MHD.
